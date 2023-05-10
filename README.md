@@ -6,7 +6,6 @@ Software Engineering Student
 
 I am a software engineering student at McMaster University with an interest in web development.
 
-* 🌍  I'm based in Mississauga, ON
 * ✉️  You can contact me at [aboujaih@mcmaster.ca](mailto:aboujaih@mcmaster.ca)
 * 🚀  I'm currently working on [Expense Tracker App](http://expense-tracker-react-ts-app.netlify.app)
 * 🧠  I'm currently learning NextJS
