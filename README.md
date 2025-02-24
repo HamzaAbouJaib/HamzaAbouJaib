@@ -4,12 +4,10 @@ Hi 👋 My name is Hamza Abou Jaib
 Software Engineering Student
 ----------------------------
 
-I am a software engineering student at McMaster University with an interest in web development.
+I am a software engineering student at McMaster University.
 
 * ✉️  You can contact me at [aboujaih@mcmaster.ca](mailto:aboujaih@mcmaster.ca)
-* 🚀  I'm currently working on [ExoTech e-commerce store](http://exotech.vercel.app)
-* 🧠  I'm learning C# and Augmented Reality
-
+* 🚀  Latest project [ExoTech e-commerce store](http://exotech.vercel.app)
 ### Skills
 
 
