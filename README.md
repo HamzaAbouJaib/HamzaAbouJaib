@@ -1,9 +1,6 @@
 Hi 👋 My name is Hamza Abou Jaib
 ================================
 
-Software Engineering Student
-----------------------------
-
 # 💫 About Me:
 * 💬 I am a software engineering student at McMaster University.
 * 🚀  Latest project [ExoTech e-commerce store](http://exotech.vercel.app)
