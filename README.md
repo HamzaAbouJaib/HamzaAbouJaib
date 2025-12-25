@@ -1,4 +1,4 @@
-Hi 👋 My name is Hamza Abou Jaib
+hi 👋 my name is Hamza Abou Jaib
 ================================
 
 # 💫 About Me:
